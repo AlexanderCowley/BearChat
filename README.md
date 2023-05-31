@@ -1,2 +1,2 @@
 # BearChat
-Chat with bears (an html/css/vanilla js project)
+Chat with bears (an html/css/js project)
